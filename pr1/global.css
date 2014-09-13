@@ -1,0 +1,576 @@
+body {
+	width: 100%; height: 100%;
+}
+html {
+	width: 100%; height: 100%;
+}
+body {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+div {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+dl {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+dt {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+dd {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+ul {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+li {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+form {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+input {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+textarea {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+select {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+p {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+h1 {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+h2 {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+h3 {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+h4 {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+h5 {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+h6 {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+a {
+	font: 12px/22px "΢���ź�"; margin: 0px; padding: 0px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+body {
+	background: rgb(227, 227, 227);
+}
+img {
+	border: 0px currentColor; -ms-interpolation-mode: bicubic;
+}
+ul {
+	list-style: none; float: left;
+}
+li {
+	float: left; display: inline;
+}
+a {
+	text-decoration: none; cursor: pointer;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+input {
+	padding-left: 5px;
+}
+input.submit {
+	margin: 0px; border: 0px currentColor; cursor: pointer;
+}
+input.radio {
+	width: 13px !important; height: 13px !important; float: left; display: inline;
+}
+.clear {
+	clear: both;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.of {
+	overflow: hidden;
+}
+.header {
+	background: url("example1/headerbg.png") repeat-x; width: 100%; height: 100px; padding-bottom: 3px; position: relative;
+}
+.header-main {
+	margin: 0px auto; width: 970px;
+}
+.banner {
+	margin: -3px auto 0px; width: 100%; height: 620px; position: relative;
+}
+.banner .title {
+	margin: 0px auto; padding: 115px 0px 0px 85px; width: 873px;
+}
+.banner h2 {
+	color: rgb(0, 103, 178); line-height: 122px; font-size: 40px; font-weight: bold;
+}
+.footer {
+	background: url("example1/bg/footer.png") repeat-x; width: 100%; height: 101px; padding-top: 6px; position: relative; z-index: 45;
+}
+.footerMain {
+	margin: 0px auto; width: 960px; position: relative;
+}
+.footerMain .img {
+	background: url("example1/bg/libg03.jpg") no-repeat right 21px; padding-right: 12px; float: left;
+}
+.footerIntro {
+	margin-top: 16px; float: left;
+}
+.footerIntro p {
+	color: rgb(108, 108, 108); line-height: 20px; padding-left: 12px;
+}
+.footerIntro p.list {
+	color: rgb(204, 204, 204); padding-left: 0px;
+}
+.footerIntro a {
+	padding: 0px 12px; color: rgb(108, 108, 108); line-height: 20px; display: inline-block;
+}
+.footerIntro a.mail {
+	padding-left: 0px;
+}
+.footerIntro a:hover {
+	color: rgb(3, 92, 172);
+}
+.footerLinks {
+	background: url("example1/bg/footerlink.jpg") no-repeat; width: 148px; height: 22px; margin-top: 15px; float: right; position: relative; z-index: 45; cursor: pointer;
+}
+.linksList {
+	background: rgb(255, 255, 255); padding: 0px 3px; border: 1px solid rgb(226, 226, 226); width: 140px; bottom: 22px; display: none; position: absolute;
+}
+.linksList a {
+	padding: 3px 0px; width: 100%; color: rgb(108, 108, 108); line-height: 16px; display: inline-block;
+}
+.linksList a:hover {
+	color: rgb(3, 92, 172);
+}
+.inside-main {
+	margin: -356px auto 0px; position: relative;
+}
+.index-main {
+	background: url("example1/box01.png") no-repeat; margin: -356px auto 0px; width: 958px; height: 845px; position: relative;
+}
+.index-main .title {
+	padding: 0px 15px 0px 26px; height: 48px;
+}
+.index-main .title p {
+	background: url("example1/sign01.png") no-repeat left; font: bold 18px/48px "΢���ź�"; color: rgb(3, 92, 172); padding-left: 20px; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.index-news-rec {
+	background: url("example1/box02.png") no-repeat; margin: 23px 0px 0px 27px; width: 904px; height: 321px;
+}
+.index-imgshow {
+	margin: 3px 0px 0px 5px; width: 464px; height: 274px; float: left; display: inline;
+}
+.index-imgshow .main {
+	width: 354px; height: 274px; float: left; position: relative;
+}
+.index-imgshow .bg {
+	background: rgb(0, 0, 0); left: 0px; width: 354px; height: 34px; bottom: 0px; position: absolute; opacity: 0.5;
+}
+.index-imgshow p {
+	left: 0px; bottom: 0px; color: rgb(255, 255, 255); line-height: 34px; padding-left: 12px; font-weight: bold; position: absolute;
+}
+.index-imgshow .change {
+	width: 100px; height: 274px; float: right; position: relative;
+}
+.index-imgshow .button-up {
+	background: url("example1/prev01.jpg") no-repeat; width: 100px; height: 17px; float: left; cursor: pointer;
+}
+.index-imgshow .button-down {
+	background: url("example1/prev01.jpg") no-repeat; width: 100px; height: 17px; float: left; cursor: pointer;
+}
+.index-imgshow .button-down {
+	background: url("example1/next01.jpg") no-repeat;
+}
+.index-imgshow .change-list {
+	width: 100px; height: 240px; overflow: hidden; float: left; position: relative;
+}
+.index-imgshow .change-list li {
+	border: 2px solid rgb(157, 157, 157); width: 96px; height: 73px; margin-bottom: 3px; cursor: pointer;
+}
+.index-imgshow .change-list li.active {
+	border: 2px solid rgb(197, 0, 0);
+}
+.index-news-list {
+	width: 365px; margin-left: 38px; float: left; display: inline;
+}
+.index-news-top {
+	height: 176px;
+}
+.index-news-top a {
+	display: inline-block;
+}
+.index-news-top a.tit {
+	color: rgb(3, 92, 172); line-height: 64px; font-size: 18px; font-weight: bold;
+}
+.index-news-top a.more {
+	color: rgb(197, 0, 0);
+}
+.index-news-top a.more:hover {
+	color: rgb(197, 0, 0);
+}
+.index-news-top a:hover {
+	color: rgb(3, 92, 172);
+}
+.index-news-list li {
+	width: 365px; height: 25px; border-bottom-color: rgb(233, 233, 233); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.index-news-list li a {
+	background: url("example1/sign02.jpg") no-repeat 3px; line-height: 25px; padding-left: 20px; float: left; display: inline-block;
+}
+.index-news-list li a:hover {
+	color: rgb(3, 92, 172);
+}
+.index-news-list li span {
+	color: rgb(222, 222, 222); line-height: 25px; float: right; display: inline-block;
+}
+.index-special {
+	margin: 75px auto 0px; width: 908px; height: 330px;
+}
+.index-special .left {
+	background: url("example1/prev02.png") no-repeat 0px 64px; width: 25px; height: 330px; float: left; cursor: pointer;
+}
+.index-special .right {
+	background: url("example1/prev02.png") no-repeat 0px 64px; width: 25px; height: 330px; float: left; cursor: pointer;
+}
+.index-special .right {
+	background: url("example1/next02.png") no-repeat right 64px;
+}
+.index-special .left-on {
+	background: url("example1/prev02_h.png") no-repeat 0px 64px;
+}
+.index-special .right-on {
+	background: url("example1/next02_h.png") no-repeat right 64px;
+}
+.index-special .mid {
+	width: 858px; height: 330px; overflow: hidden; float: left; position: relative;
+}
+.index-special .mid li {
+	width: 274px; height: 330px; margin-right: 18px;
+}
+.index-special img {
+	background: url("example1/shadow01.png") no-repeat; padding: 3px 6px 7px 4px; margin-bottom: 3px; float: left;
+}
+.index-special p.tit {
+	color: rgb(3, 92, 172); font-size: 14px; font-weight: bold;
+}
+.index-special span {
+	background: rgb(3, 92, 172); width: 86px; height: 28px; text-align: center; color: rgb(255, 255, 255); line-height: 28px; font-weight: bold; margin-top: 10px; display: inline-block;
+}
+.index-special a:hover p {
+	color: rgb(3, 92, 172);
+}
+.img-box {
+	background: url("example1/box03.png") no-repeat; margin: 11px auto 16px; width: 958px;
+}
+.img-box .title {
+	padding: 0px 15px 27px 26px; height: 50px;
+}
+.img-box .title p {
+	background: url("example1/sign01.png") no-repeat left; font: bold 18px/50px "΢���ź�"; color: rgb(3, 92, 172); padding-left: 20px; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.img-box .title a {
+	color: rgb(170, 181, 185); font-family: Arial; font-size: 11px; margin-top: 16px; float: right; display: inline-block;
+}
+.img-box .title a:hover {
+	color: rgb(3, 92, 172);
+}
+.img-box-main {
+	width: 890px; overflow: hidden; margin-left: 36px; position: relative;
+}
+.img-box-main ul {
+	width: 916px;
+}
+.img-box-main li {
+	margin: 0px 25px 6px 0px; width: 204px; height: 192px;
+}
+.img-box-main li img {
+	background: url("example1/shadow02.png") no-repeat; padding: 4px 8px 8px 4px; float: left;
+}
+.img-box-main li p {
+	text-align: center; line-height: 38px;
+}
+.img-box-main li a:hover p {
+	color: rgb(3, 92, 172);
+}
+.imglist {
+	height: auto;
+}
+.imgbottom {
+	background: url("example1/imgbottom.png") no-repeat; height: 55px;
+}
+.list-main {
+	margin: -356px auto 0px; width: 958px; height: 750px;
+}
+.list-rec {
+	background: url("example1/box04.png") no-repeat; height: 378px; position: relative;
+}
+.list-rec .title {
+	padding: 0px 15px 23px 26px; height: 48px;
+}
+.list-rec .title p {
+	background: url("example1/sign01.png") no-repeat left; font: bold 18px/48px "΢���ź�"; color: rgb(3, 92, 172); padding-left: 20px; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.list-recmain {
+	background: url("example1/box05.png") no-repeat; width: 902px; height: 284px; margin-left: 30px; _width: 925px;
+}
+.recimg {
+	margin: 3px 0px 0px 3px; width: 354px; height: 274px; overflow: hidden; float: left; display: inline; position: relative;
+}
+.recimg li {
+	left: 0px; top: 0px; position: absolute;
+}
+.recimg .bg {
+	background: rgb(0, 0, 0); left: 0px; width: 354px; height: 34px; bottom: 0px; position: absolute; opacity: 0.5;
+}
+.recimg p {
+	left: 0px; width: 354px; height: 34px; bottom: 0px; color: rgb(255, 255, 255); line-height: 34px; padding-left: 12px; font-weight: bold; position: absolute;
+}
+.recimg .number {
+	height: 8px; right: 10px; bottom: 12px; overflow: hidden; position: absolute; z-index: 35;
+}
+.recimg .number span {
+	background: rgb(255, 255, 255); width: 8px; height: 8px; margin-left: 4px; display: inline-block; cursor: pointer; opacity: 0.5;
+}
+.recimg .number span.cur {
+	background: rgb(3, 92, 172); opacity: 1;
+}
+.reclist {
+	width: 500px; margin-left: 30px; float: left; display: inline;
+}
+.reclist-top {
+	height: 145px; padding-top: 10px;
+}
+.reclist-top a {
+	display: inline-block;
+}
+.reclist-top a.tit {
+	width: 100%; color: rgb(3, 92, 172); line-height: 44px; font-size: 18px; font-weight: bold; margin-bottom: 10px; border-bottom-color: rgb(214, 214, 214); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.reclist-top a.more {
+	color: rgb(3, 92, 172);
+}
+.reclist-top a:hover {
+	color: rgb(3, 92, 172);
+}
+.reclist ul {
+	width: 534px;
+}
+.reclist li {
+	width: 212px; height: 25px; margin-right: 55px; border-bottom-color: rgb(233, 233, 233); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.reclist li a {
+	background: url("example1/sign02.jpg") no-repeat 3px; line-height: 25px; padding-left: 20px; float: left; display: inline-block;
+}
+.reclist li a:hover {
+	color: rgb(3, 92, 172);
+}
+.reclist li span {
+	color: rgb(222, 222, 222); line-height: 25px; float: right; display: inline-block;
+}
+.ad {
+	margin: 13px auto; width: 950px; height: 120px;
+}
+.list-box {
+	height: 226px;
+}
+.list-box .title {
+	padding: 0px 15px 14px 26px; height: 48px;
+}
+.list-box .title p {
+	background: url("example1/sign01.png") no-repeat left; font: bold 18px/48px "΢���ź�"; color: rgb(3, 92, 172); padding-left: 20px; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.list-box-left {
+	background: url("example1/box06.png") no-repeat; width: 478px; height: 226px; float: left;
+}
+.list-box-left ul {
+	width: 430px; margin-left: 26px; display: inline;
+}
+.list-box-left li {
+	background: url("example1/sign03.jpg") no-repeat left; width: 430px; height: 24px;
+}
+.list-box-left li a {
+	line-height: 24px; padding-left: 11px; float: left; display: inline-block;
+}
+.list-box-left li a:hover {
+	color: rgb(3, 92, 172);
+}
+.list-box-left li span {
+	color: rgb(136, 136, 136); font-family: Arial; font-size: 11px; float: right; display: inline-block;
+}
+.list-box-right {
+	background: url("example1/box07.png") no-repeat; width: 473px; height: 226px; float: right;
+}
+.list-box-intro {
+	padding: 5px 29px 0px;
+}
+.insideCon {
+	margin: 0px auto; padding: 0px 17px; width: 960px;
+}
+.insideConBg {
+	background: url("example1/insiderepecty.png") repeat-y;
+}
+.insideBot {
+	background: url("example1/botBg.png") no-repeat; margin: 0px auto; padding: 0px 17px; width: 960px; height: 35px;
+}
+.insideTitle {
+	background: url("example1/insidetitle.jpg") no-repeat;
+}
+.indexTitle {
+	width: 100%; height: 65px;
+}
+.indexTitle h2 {
+	color: rgb(90, 90, 90); line-height: 65px; padding-left: 28px; font-size: 24px; font-weight: bold; float: left;
+}
+.indexTitle span {
+	color: rgb(170, 173, 176); line-height: 65px; padding-right: 52px; font-size: 14px; float: right;
+}
+.indexSiteRight {
+	width: 240px; height: 389px; padding-top: 22px; float: right;
+}
+.turn {
+	background: url("example1/turnbg.jpg") no-repeat; margin: 30px auto 0px; width: 910px; padding-top: 20px; position: relative;
+}
+.turn p {
+	line-height: 24px; font-size: 14px;
+}
+.turn p a:hover {
+	color: rgb(0, 103, 178);
+}
+.turn a.back {
+	top: 20px; right: 10px; color: rgb(3, 92, 172); font-weight: bold; display: inline-block; position: absolute;
+}
+.newsinfoTitle {
+	background: url("example1/newsinfotitlebg.jpg") repeat-x; width: 100%; height: 60px; padding-top: 32px; margin-bottom: 25px;
+}
+.newsinfoTitle h2 {
+	font: bold 22px/24px "΢���ź�"; text-align: center; color: rgb(0, 103, 178); font-size-adjust: none; font-stretch: normal;
+}
+.newsinfoTitle h3 {
+	text-align: right; line-height: 36px; padding-right: 35px;
+}
+.newsinfoTitle h3 span {
+	color: rgb(255, 117, 0);
+}
+.newsinfoBox {
+	margin: 0px auto; width: 910px; height: auto !important; min-height: 360px;
+}
+.newsinfoBox p {
+	font: 12px/24px "΢���ź�"; font-size-adjust: none; font-stretch: normal;
+}
+.insideBot {
+	background: url("example1/botbg.png") no-repeat; margin: 0px auto; padding: 0px 17px; width: 960px; height: 35px;
+}
+.newsinfo {
+	padding-bottom: 50px;
+}
+#backtop {
+	left: 50%; width: 18px; bottom: 146px; margin-left: 483px; display: none; position: fixed; cursor: pointer; _position: absolute; _bottom: 152px;
+}
+#special {
+	margin: -40px 0px 0px 483px; left: 50%; top: 50%; width: 18px; height: 79px; position: fixed; _position: absolute; _bottom: 200px; _top: auto;
+}
+.index-honor-wrap {
+	margin: -265px auto 0px; width: 958px; position: relative; z-index: 55;
+}
+.index-honor-title {
+	background: url("example1/bg_bg01.png") no-repeat; padding: 0px 4px 5px; width: 950px; height: 44px;
+}
+.index-honor-title h2 {
+	background: url("example1/bg_sign01.png") no-repeat 22px; font: bold 18px/44px "΢���ź�"; color: rgb(0, 103, 178); padding-left: 42px; font-size-adjust: none; font-stretch: normal;
+}
+.index-honor-rec-main {
+	background: url("example1/bg_bg02.png") no-repeat; padding: 35px 42px 50px 41px; width: 875px; height: 399px; position: relative;
+}
+.index-honor-rec-prev {
+	top: 35px; width: 130px; height: 399px; position: absolute; z-index: 99; cursor: pointer;
+}
+.index-honor-rec-next {
+	top: 35px; width: 130px; height: 399px; position: absolute; z-index: 99; cursor: pointer;
+}
+.index-honor-rec-prev {
+	background: url("example1/bg_bg07.png"); right: 38px;
+}
+.index-honor-rec-next {
+	background: url("example1/bg_bg07.png"); left: 38px;
+}
+.img-scroll-box {
+	width: 875px; height: 399px; overflow: hidden; position: relative;
+}
+.img-scroll-box li {
+	background: url("example1/bg_bg03_s.png") no-repeat; padding: 13px; left: 875px; top: 48px; width: 459px; height: 290px; position: absolute; z-index: 40;
+}
+.img-scroll-box li.on {
+	background: url("example1/bg_bg03.png") no-repeat; padding: 15px; width: 587px; height: 369px; z-index: 55;
+}
+.img-scroll-box li img {
+	width: 100%;
+}
+.img-scroll-box .z30 {
+	z-index: 30;
+}
+.img-scroll-box .tips {
+	left: 145px; width: 587px; height: 46px; bottom: 15px; position: absolute; z-index: 60;
+}
+.img-scroll-box .tips .tips_bg {
+	background: rgb(0, 0, 0); width: 587px; height: 46px; display: none; opacity: 0.6;
+}
+.img-scroll-box .tips a {
+	font: bold 14px/46px "΢���ź�"; left: 0px; top: 0px; width: 587px; height: 46px; text-align: center; color: rgb(213, 213, 213); display: inline-block; position: absolute; z-index: 55; font-size-adjust: none; font-stretch: normal;
+}
+.index-honor-ad {
+	margin: 12px auto 14px; width: 950px; height: 120px;
+}
+.index-honor-box {
+	margin-bottom: 8px;
+}
+.index-honor-box-main {
+	background: url("example1/bg_bg04.png") repeat-y; padding: 24px 19px 15px; width: 920px;
+}
+.index-honor-detail {
+	padding: 24px 28px 15px 26px; width: 902px;
+}
+.index-honor-bot {
+	background: url("example1/bg_bg05.png") no-repeat; width: 958px; height: 20px;
+}
+.index-honor-box-main li {
+	background: url("example1/bg_bg06.jpg") no-repeat; margin: 0px 1px 10px 0px; padding: 8px 6px; width: 292px; height: 344px; float: left; display: inline;
+}
+.index-honor-box-main li .img {
+	width: 292px; height: 187px; overflow: hidden; position: relative;
+}
+.index-honor-box-main li .bg {
+	background: rgb(0, 0, 0); left: 0px; width: 292px; height: 34px; bottom: 0px; position: absolute; opacity: 0.6;
+}
+.index-honor-box-main li p {
+	left: 20px; width: 252px; bottom: 0px; color: rgb(255, 255, 255); line-height: 34px; position: absolute;
+}
+.index-honor-box-main .intro {
+	padding: 17px 20px 0px; height: 97px;
+}
+.index-honor-box-main a:hover {
+	color: rgb(0, 103, 178);
+}
+.index-honor-box-main a.more {
+	background: url("example1/bg_sign02.jpg") no-repeat right; padding: 0px 25px 0px 20px; color: rgb(0, 103, 178); line-height: 42px; display: inline-block;
+}
+.ovbox {
+	width: 100%; height: 100%; overflow: hidden; position: relative;
+}

@@ -1,0 +1,12 @@
+.page {
+	padding: 10px 0px; text-align: center; line-height: 22px; clear: both; font-size: 12px; font-weight: bold;
+}
+.page a {
+	background: rgb(255, 255, 255); padding: 3px 6px 2px; border: 1px solid rgb(204, 204, 204); color: rgb(134, 152, 182); text-decoration: none; margin-right: 3px;
+}
+.page a.active {
+	background: rgb(253, 26, 43); border: 1px solid rgb(253, 26, 43); color: rgb(255, 255, 255);
+}
+.page a:hover {
+	background: rgb(253, 26, 43); border: 1px solid rgb(253, 26, 43); color: rgb(255, 255, 255); text-decoration: none;
+}
